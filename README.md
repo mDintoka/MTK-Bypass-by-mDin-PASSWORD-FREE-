@@ -1,6 +1,8 @@
 MTK Auth Bypass (Password Free)
 ⚠️ Disclaimer & Warning
 I am responsible for any warranty voidance or device issues resulting from the use of this tool. Use this at your own risk.
+This tool is for education purpose and Unbrick you phone while doing an experiment of installing customrom
+
 
 ANTIVIRUS: You must turn off your Antivirus/Windows Defender. These tools are often flagged as "false positives" because they interact with USB ports and system drivers at a low level.
 
