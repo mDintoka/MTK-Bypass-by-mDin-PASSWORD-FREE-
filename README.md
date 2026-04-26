@@ -34,3 +34,4 @@ Exploit Developers: xyz, kamakiri
 Tool Contributors: ChaosMaster, Bst-Mtk, and the MTK-Bypass community.
 
 Original Research: Dedicated to the XDA and GitHub developers who made MTK security bypass public.
+# not created by me 
